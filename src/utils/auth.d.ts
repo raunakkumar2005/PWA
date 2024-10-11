@@ -1,0 +1,9 @@
+export declare const removeToken: () => Promise<void>;
+export declare const storeToken: (token: string) => Promise<void>;
+export declare const storeRole: (role: string) => Promise<void>;
+export declare const storeName: (name: string) => Promise<void>;
+export declare const getToken: () => Promise<string>;
+export declare const getRole: () => Promise<string>;
+export declare const getName: () => Promise<string>;
+export declare const set: (key: string, value: any) => Promise<void>;
+export declare const get: (key: string) => Promise<string>;

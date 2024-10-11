@@ -1,0 +1,18 @@
+html, body { height: 100%; }
+/* These styles disable body scrolling if you are using <ScrollView> */
+body { overflow: hidden; }
+/* These styles make the root element full-height */
+#root { display:flex; height:100%; }
+.r-WebkitOverflowScrolling-150rngu,
+.r-minHeight-2llsf,
+.css-175oi2r{
+   max-height: 100vh;
+}
+body{
+   max-width: 400px;
+}
+
+.css-view-175oi2r.r-bottom-1p0dtai.r-left-1d2f490.r-position-u8s1d.r-right-zchlnj.r-top-ipm5af.r-pointerEvents-12vffkv{
+   max-height: 100vh;
+
+}
